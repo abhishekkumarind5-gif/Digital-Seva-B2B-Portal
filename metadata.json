@@ -1,0 +1,6 @@
+{
+  "name": "Digital Seva B2B Portal",
+  "description": "Multi-service FinTech SaaS agent portal offering secure banking (AePS, DMT), utilities (BBPS), insurance quotes, travel bookings, and e-governance solutions with live wallet and commission tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
